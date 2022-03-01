@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second letter to Hilton, the grand informer against religious meetings wherein his threatnings against constables are demonstrated to be vain : and the whole duty of those officers, in reference to that business, stated.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09994</idno>
+            <idno type="STC">Wing S2288</idno>
+            <idno type="STC">Wing S2288</idno>
+            <idno type="STC">ESTC R215545</idno>
+            <idno type="EEBO-CITATION">62369655</idno>
+            <idno type="OCLC">ocm 62369655</idno>
+            <idno type="VID">188126</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09994)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188126)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2856:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second letter to Hilton, the grand informer against religious meetings wherein his threatnings against constables are demonstrated to be vain : and the whole duty of those officers, in reference to that business, stated.</title>
+                  <author>Philoeusebias Misonebulonides.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Lee and are to be sold by most booksellers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication and name of publisher from colophon; date of publication from p. [2].</note>
+                  <note>Dated and signed: Aug. 28. 1682. From your Old Acquaintance, Philoeusebias Misonebulonides (p. [2]).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conventicle act, 1670.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Law enforcement --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:188126:1" rendition="simple:additions"/>
+            <head>A SECOND LETTER to <hi>HILTON, <hi>The Grand Informer</hi>
+               </hi> Againſt RELIGIOUS MEETINGS: Wherein his Threatnings againſt <hi>CONSTABLES</hi> are Demonſtrated to be <hi>Vain;</hi> and the Whole Duty of thoſe <hi>Officers,</hi> in Reference to that Buſineſs, ſtated.</head>
+            <opener>
+               <salute>Noble Captain!</salute>
+            </opener>
+            <p>
+               <hi>AFter my Love to you remembred, hoping you are in Good Health, as I am at this pre<g ref="char:EOLhyphen"/>ſent Writing,</hi> &amp;c. [For I know you are a great Admirer of <hi>Set-Forms] This is to let you underſtand,</hi> That I am now got as far as the Second Page of your firſt <hi>Conventicle Courant,</hi> where you begin the Journal of your Succeſsleſs Knight-Errantry, againſt the ſuppoſed Fanatick <hi>Painims,</hi> with the Names of thoſe Magiſtrates that granted your War<g ref="char:EOLhyphen"/>rants: Whether thoſe Gentlemen will Con you any Thanks for this Publication, I know not; But accor<g ref="char:EOLhyphen"/>ding to your Account, the firſt Warrant that iſſued was from the <hi>Judicious</hi> Sir <hi>John Peak,</hi> the <hi>next</hi> the <hi>Eminent</hi> Sir <hi>Geerge Waterman</hi> gave out; Then Sir <hi>James Smith</hi> five more; Sir <hi>Henry Tulſe</hi> five more; Sir <hi>Robert Jeffe<g ref="char:EOLhyphen"/>ries</hi> four; Sir <hi>Jonathan Raymond</hi> five; Sir <hi>Tho. Beckford</hi> five; and Sir <hi>Tho. Orby</hi> and Mr. Juſtice <hi>Ball</hi> four more, for <hi>Weſtminſter.</hi>
+            </p>
+            <p>All theſe Warrants were it ſeems made out before the Meetings ſuppoſed, were in the leaſt Actually Con<g ref="char:EOLhyphen"/>gregated; upon your Worſhips <hi>bare ſuggeſtion,</hi> that perhaps for ought you knew (for ſure you did not ſwear for Futurity) there <hi>might be</hi> Meetings there next Sun<g ref="char:EOLhyphen"/>day: How far this is Juſtifiable by <hi>the Act,</hi> or indeed agreeable to <hi>Common Sence,</hi> may be a queſtion. Or when Juſtices and Conſtables ſhall be <hi>at quiet,</hi> if ſuch looſe Allegations from every <hi>Vagrant</hi> ſhall be ſufficient? Nay, there were <hi>no ſuch Places</hi> in <hi>Rerum Natura,</hi> as are mention'd for Conventicles in ſome of your Warrants.</p>
+            <p>Being now <hi>brisk in your Geers,</hi> it ſeems Captain, you fell into an <hi>Ambuſcade;</hi> The <hi>Philiſtin</hi>-Boys ſet upon the Church of <hi>England</hi>'s <hi>Sampſon;</hi> The <hi>Rabble,</hi> the <hi>Mobile,</hi> the Beaſt with Ten Thouſand Heads, began to poſter you worſe than <hi>Flies</hi> do a gall'd Jade in <hi>Auguſt.</hi> I confeſs <hi>Dirt upon Dirt</hi> was falſe Heraldry: But where<g ref="char:EOLhyphen"/>as you complain, <hi>They Defac'd You,</hi> 'tis an Errant <hi>Whiſ<g ref="char:EOLhyphen"/>ker,</hi> for all the World knows you have ſtill a very ſub<g ref="char:EOLhyphen"/>ſtantial <hi>Brazen-F<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce</hi> of your own; and for your <hi>Cloaths</hi> 'tis no matter, thoſe that beſtow'd theſe upon you, can eaſily <hi>Equip</hi> you with another <hi>New Suit,</hi> rather than you ſhall be diſabled to carry on the Bleſſed Work.</p>
+            <p>But Heaven Shield us from <hi>Crabſticks</hi> and leaden <hi>Ten<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is-Balls,</hi> Here's no leſs than a <hi>Plot</hi> againſt thy ſweet Life, and diſcover'd firſt, by ſome Sagacious <hi>Aldermen;</hi> and next, by an <hi>Angel.</hi> O Sacred Incomparable <hi>Hil<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on!</hi> from being a Prey to <hi>Vermine;</hi> Spunging in <hi>Nine-pin yards,</hi> and Scouring of <hi>Jails,</hi> how ſuddenly art thou become the <hi>Peculiar Care</hi> of both Worlds! Court and City join to Study thy Safety! and both <hi>Whitehall</hi> and <hi>Heaven</hi> are oblig'd to give thee <hi>Items</hi> of thy dangers—<hi>The Gentleman</hi> [by which is always to be underſtood thine own pretious ſelf] <hi>being at Whitehall,</hi>
+               <note place="margin">See <hi>Convent. Courant,</hi> Numb. 1. pag. 3.</note> 
+               <hi>was there told by ſome Aldermen, that he ſhould take heed to himſelf, That his Life was Threatned, and Adviſed him to come to their Houſes for fear of Danger.</hi>—Here's firſt a bouncing Information that our Informer is a great Body at Court, and has much buſineſs at <hi>White<g ref="char:EOLhyphen"/>hall;</hi> and next, how Intimate he is with no Body knows what <hi>Aldermen,</hi> who yet methinks were a little wanting ſince they ſo well knew his Life was threatned, that they did not <hi>Seize</hi> thoſe that Threatned it. But what fol<g ref="char:EOLhyphen"/>lows?—<hi>Next day came a Perſon to the Gentlemans houſe who leads him into a Room,</hi>
+               <note place="margin">Ibidem</note> 
+               <hi>and Civilities paſs'd</hi>—and what then? Nay hold, you muſt firſt have a Notion of Divinity—<hi>And certainly no man that has any Sentiment of a Providence,</hi>
+               <note place="margin">Ibidem.</note> 
+               <hi>but muſt rea<g ref="char:EOLhyphen"/>ſonably Conclude, That there are Tutelary Angels, whoſe Care of our Welfare and Concern for our Dangers are always Exhibited, and who Infuſe</hi> thoſe Divine Whiſpers <hi>which Inform our ſecure Minds of</hi> ANY <hi>Impendent Evil to be avoided, or Succeeding Good to be Embraced, As this following Occurrence is an evident Inſtance</hi>—Now Beloved, prick up your Ears, and Attend the Miracle!—<hi>This Viſitant had a Crab-Tree-ſtick</hi> and a <hi>THONG</hi> at the end, to which <hi>was tyed a Ball of Lead about the Bigneſs of a</hi> Tennis Ball; <hi>which the Gentleman</hi> (that is ſtill thy ſelf) <hi>ſpying, was immediately ſeized with a ſuſpitious Fear.</hi> ('Tis a quality the Captain is very ſubject too, and Brandy it ſelf cannot Cure him on't) <hi>another man comes in, and you Civilly diſmiſs the ſaid Perſon</hi> (who you ſay, <hi>was no doubt your deſigned Murtherer) forbidding him any Future Acceſs.</hi>
+            </p>
+            <p>Now was there ever a more Ridiculous Story Re<g ref="char:EOLhyphen"/>corded in Popiſh Legend, or told at a <hi>Goſſipping?</hi> What deſigns ſhould any body have againſt ſuch a Pittiful <hi>Scoundrel?</hi> Was Noon-day and thy own Houſe (as thou call'ſt it) a fit time and place to murther thee? No, no, Sir! do but Swear the <hi>Peace againſt Jack Ketch,</hi> and thou art <hi>Safe</hi> againſt all the World: For though thou art miſcall'd <hi>A Captain,</hi> if ever thou dyeſt <hi>in the Field,</hi> it muſt be of a Surfeit of <hi>Hemp-Seed.</hi> But beſides the Helliſh <hi>Malice</hi> of this Romance, in Suggeſting as if the Diſſenters had ſet ſome body to Murther thee; there is hereby ſlily advanc'd a common <hi>Popiſh Tenet</hi> (which ſhews plainly whoſe <hi>Fingers</hi> have been in this <hi>Gooſe-pye</hi>) for the Papiſts hold that every man has a <hi>Tutelary</hi> or <hi>Guardian Angel,</hi> unto whom they dayly; <hi>Say Prayers,</hi> The <hi>Forms</hi> of which you may find in the Ingenious Mr. <hi>Patrick</hi>'s Book, Intituled, <hi>De<g ref="char:EOLhyphen"/>votions of the Roman Church,</hi> pag. 417. Whereas, though Proteſtants acknowledge Angels to be Mini<g ref="char:EOLhyphen"/>ſtring Spirits, and that they are always ready to aſſiſt good men and puniſh the wicked, when God ſhall Command them; yet we do not allow of any ſuch Special ap<g ref="char:EOLhyphen"/>propriated Angel to every Individual as they dream, much leſs ſuch as does Inform our minds of every Evil to be avoided, or Good to be embraced, as <hi>your Popiſh Coxcombſhip</hi> affirms; For that was utterly to make void the Holy Scripture and all kind of Moral Pre<g ref="char:EOLhyphen"/>cepts,
+<pb facs="tcp:188126:2"/>
+and to give oneſelf up blindfold to the Conduct of ones own irregular F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncies, as the <hi>Divine Whiſpers</hi> foſooth of our Tutelary Angel.</p>
+            <p>This <hi>Brunt</hi> being over, you next tell us, how ſeveral Conſtables, when you offer'd them your Warrants doubted of the <hi>Truth</hi> of them and indeed they'd reaſon ſo to do on ſeveral Accounts: For 1. They had not heard of any ſuch Proſecut<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on for ſeveral years, and knew the <hi>Grand Council</hi> of the Nation had Voted the p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tting thoſe Laws in Execution at this Juncture to be Inexpedient; Nor could they imagine any extraordina<g ref="char:EOLhyphen"/>ry Cauſe on the <hi>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſen<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers</hi> part, which ſhould Exaſpe<g ref="char:EOLunhyphen"/>rate Authority againſt them <hi>now,</hi> more than for di<g ref="char:EOLhyphen"/>vers years paſt. Secondly, The Warrants running to ſuppreſs <hi>Meetings not in Being,</hi> and conſequently ſuch as 'tis impoſſible to know, whether <hi>contrary to the Li<g ref="char:EOLhyphen"/>turgy and Practice of the Church of</hi> England, <hi>or not,</hi> might in their Apprehenſions ſeem not to be Legal and according to the Tenour of the Act, and therefore they might juſtly doubt whether ſuch judicious Ma<g ref="char:EOLhyphen"/>giſtrates, as 'tis well known this City is furniſht with, would grant any ſuch; Thirdly, They might the ra<g ref="char:EOLunhyphen"/>ther queſtion it, becauſe brought by <hi>a Fellow</hi> altogea<g ref="char:EOLhyphen"/>ther <hi>unknown,</hi> and unable to give any good account of himſelf, a Perſon <hi>ſine Re, ſine Spe, ſine Sede, ſine Fide,</hi> (As our Law-Book ſpeaks in a like Caſe) ſo that they could not Act more prudently than in deſiring to be Aſcertain'd of the Reality of ſuch Warrants, that they were not <hi>Forged</hi> and <hi>Counterfeited;</hi> Before they Ad<g ref="char:EOLhyphen"/>ventur'd to Act thereupon; ſince otherwiſe they might incur at once many hundred Actions of <hi>Treſpaſs</hi> or <hi>Falſe-Impriſonment,</hi> to the Ruine of themſelves and Families. For 'tis certain, If any Meeting <hi>not Pro<g ref="char:EOLhyphen"/>hibited</hi> by the Act be diſturbed, or any perſons taken into Cuſtody where the Statutes do <hi>not Impower and juſtify it,</hi> or where the Officers have not a <hi>ſufficient War<g ref="char:EOLhyphen"/>rant,</hi> every one of the perſons grieved has his ſeparate <hi>Remedy</hi> by Law againſt every ſuch Officer.</p>
+            <p>Tis true you impudently and no leſs <hi>falſly</hi> have li<g ref="char:EOLhyphen"/>beil'd many Conſtables by name, and Threaten them and others with <hi>Neglect of their Duty,</hi> which is in Ef<g ref="char:EOLhyphen"/>fect to charge ſo many worthy Loyal Citizens with <hi>Per<g ref="char:EOLhyphen"/>jury</hi> and <hi>Diſloyalty,</hi> meerly for not dancing after your fooliſh Extravagant Pipe; for which <hi>Scandals</hi> no doubt they will not be wanting to ſeek Legal Amends, if your contemptible Condition do not diſcourage them with the Proverb of—<hi>Suing a Beggar, and Catching,</hi> &amp;c.</p>
+            <p>For (notwithſtanding all your <hi>Babling</hi>) It does not appear that they have neglected their <hi>Duty</hi> in any one Point. For,</p>
+            <p>Firſt, Have you <hi>proved</hi> or can you <hi>ever prove</hi> any one of thoſe Aſſemblies that you would have had di<g ref="char:EOLhyphen"/>ſturb'd to be a <hi>Seditious</hi> Conventicle, Or held in o<g ref="char:EOLhyphen"/>ther manner than according to the Liturgy and practiſe of the Church of <hi>England?</hi> And yet till this were proved, by two ſufficient Witneſſes, neither the <hi>Juſtices</hi> nor <hi>Constables</hi> had any thing to do with them. And how is it poſſible to prove an Exerciſe of Religion at any Meeting, is in other manner than according to the Liturgy and Practice of the Church of <hi>England,</hi> a week, or a Month, or any time <hi>before</hi> ſuch Meeting is held! Nor indeed can the ſame be proved, when a Meeting is actually Aſſembled, unleſs the Informers can Swear that they were at ſuch Meeting from the <hi>Begin<g ref="char:EOLhyphen"/>ing</hi> to the <hi>End</hi> thereof.</p>
+            <p>Secondly, Tis undeniable, That the Juſtices <hi>Warrants</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an neither Force, Impower or Juſtify the Conſtables to do any thing in R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lation to E<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecuting he Statute of the 22 <hi>Car.</hi> 2. Which they are not by that S<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tute Impower'd and Enjoined to do. But tis plain, that <hi>all</hi> that that Statute Enjoins Conſtables to do, Is,</p>
+            <p n="1">1. <hi>To Leavy the Penalties upon Warrants after Convictions</hi> Sect. 2. Paragraph 3.</p>
+            <p n="2">2. <hi>Where they know or are cre<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y Informed of any Conventicle within their Reſpective Limits, to Inform ſome Juſtice or the Chief-Magiſtrate thereof.</hi> Sect. 11. Parag<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 1.—It does not ſay, they ſhall run and di<g ref="char:EOLhyphen"/>ſturb it, or ſend preſently for a E<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le of Muſqueteers, and take their honeſt Neighbours <hi>Priſoners,</hi> but that they ſhall endeavour the Conviction of the Parties according to their <hi>Duty,</hi> that is, by Informing the Ju<g ref="char:EOLhyphen"/>ſtice or Chief Magiſtrate thereof, as aforeſaid;—And as to <hi>this part</hi> of the Conſtables Duty, the Juſtices have (in our preſent Caſe) <hi>Diſcharged</hi> them thereof, for what need the Conſtables <hi>Inform the Juſtices</hi> of that, which the Juſtices under their <hi>Hands and Seals</hi> do declare they are ſufficiently Informed of already?</p>
+            <p n="3">3. <hi>Where any Conventicle ſhall be kept Cloſe, and Entrance denyed, there the Constables are required and Impowered to break open the doors, if they have a War<g ref="char:EOLhyphen"/>rant from a Juſtice to that purpoſe, and not without</hi>—Sect. 9. Paragr. (For 'tis ſuppoſed in ſuch places dan<g ref="char:EOLhyphen"/>gerous Practices may be carryed on, where they are ſo private) And there, and there, ONLY, <hi>viz.</hi> In Caſe of having been refuſed Entrance and breaking of doors, the Act does Authorize the Conſtables <hi>to take into Cuſtody the perſons there Aſſembled;</hi> Sect. 9. Pa<g ref="char:EOLhyphen"/>ragsaph 2.</p>
+            <p>But that they may, or ſhall <hi>take into Cuſtody</hi> any Perſons preſent at any Peceable <hi>open</hi> Religious Meeting, there is <hi>not one word</hi> in the Act, and therefore I have oft admired at the Blind and raſh Confidence of ſome Conſtables, That have preſumed to do it; And ſurely it concerns all <hi>Officers</hi> to be wary what they do, leſt they be call'd to an Account hereafter on Actions of falſe Impriſonments. In which caſe a Juſtices Warrant, unleſs Warranted by the Act, will be no ſufficient Plea. Some other particulars there are, fit to be ſpoken to, and an Objection or two, though of no great weight, to be Anſwer'd—But theſe ſhall ſerve for a <hi>Third Courſe;</hi> In the mean time, Noble Captain! <hi>Farewel and be Hang'd,</hi> an extraordinary <hi>Complement,</hi> which in the new <hi>Academy</hi> ſignifies, twice <hi>Good-bouy.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Aug. 28. 1682.</date>
+               </dateline>
+               <signed>From your Old Acquaintance, <hi>Philoeuſebias Miſonebulonides</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <head>Poſtſcript.</head>
+               <p>YOur Land-Lady in <hi>Alderſgate-ſtreet</hi> re<g ref="char:EOLhyphen"/>members her to you, and deſires that you would pleaſe at leaſt to pay for <hi>Waſhing</hi> the <hi>Bewray'd Sheet;</hi> which you hid in an hole; when you <hi>Retreated</hi> thence in diſorder, (though <hi>ten thouſand</hi> ſtrong) <hi>without paying your Quarters.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>R. Lee,</hi> and are to be Sold by moſt Bookſellers.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
